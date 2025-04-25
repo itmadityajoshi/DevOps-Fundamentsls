@@ -1,0 +1,75 @@
+Introduction 
+
+Python is one of the easiest programming language to learn.
+
+Here are some of the famous websites that are made of using Python.
+ Youtube
+ Instagram
+ Netflix
+ Spoftiy
+ Pinterest
+
+#Print
+
+To print something in python, we can put the value that we want Python to print.
+
+    Print("Hello World!")
+
+we want to print a string value that's why we used "" to wrap the Phrase.
+
+
+
+
+# What is Expected Output?
+
+learners and organization use test cases to confirm that their code produces the desired output.
+
+Test cases excess the program's performances by comparing the actual output with the expected result.
+If the output match, the test case is marked as "Success"; otherwise, it is marked as "Fail", indicating a discrepancy.
+
+For instances, printing "hello" insted of "Hello" would fail the test.
+
+
+# Numbers
+
+Variables are the reference name given to a value in your code. Basically you gave a name to a value using variables.
+
+For instances,
+ a = 20
+
+ptyhon have two types of Numbers values:-
+ 1. int - all the numbers without decimals
+ 2. float- all the numbers, with decimals, 3.3 or -1.04
+
+Note: we don't need to tell python about what types of data you are storing.
+
+
+# string
+
+Variables with sring value.
+
+String value is the combination of one or more characters written between single or double quoatation mark.
+
+Single quoatation mark
+ a = 'Learne Deutsch'
+
+Double quoatation mark
+ d = "Learne Deutsch"
+
+To display just types
+print(a) &
+print(b)
+
+# Boolean
+
+Boolean is a simply either True or False.
+
+These value are used to give a decision in conditional statements.
+storing a Boolean value in a variables is no different than numbers and strings.
+
+You can use or store Boolean values like this,
+ a = True
+ or,
+ a = False
+
+There is only two Boolean value i.e True or False. 
