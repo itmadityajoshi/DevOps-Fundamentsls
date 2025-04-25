@@ -1,0 +1,40 @@
+Types of Operators
+
+1. Arithemetic Operators
+ +, -, /, *. ** (Exponentional), // (Floor divison), %(Modulus)
+
+2. Comparison Operators
+    == equal
+    != Not equal
+    > Greater than
+    < less than
+    >= Greater than equal to
+    <= less than euqal to
+
+3. Logical Operators
+    and, or, not
+
+print( True or False)
+print( True and False)
+print( not True)
+
+4. Assignment Operators
+    =, +=, -=, /=, %=, **=, //=
+
+
+5. Membership Operators
+    in , not in
+
+    for eg:
+    fruits = ["apple", "kera", "cherry"]
+    print("kera" in fruits)
+
+    #true
+
+6. Identify Operators
+    is, is not
+
+    x = 10
+    y = 10
+
+    print(x is y) # Output: True
