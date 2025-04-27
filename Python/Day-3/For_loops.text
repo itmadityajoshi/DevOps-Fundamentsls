@@ -18,4 +18,15 @@ The range() function generates a sequence of numbers.
 e.g. 
 
     for i in range(5):
-        print(i)  #o/p--> 0,1,2,3,4,
+        print(i)  #o/p--> 0,1,2,3,4
+
+
+What are While Loops?
+
+While loops execute a block of code as long as a condition is True.
+They are useful when the number of iteration is not known in advanced.
+
+syntax
+
+    While condition:
+        #code to execute while condition is True
