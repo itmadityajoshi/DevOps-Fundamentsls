@@ -1,0 +1,21 @@
+For Loops in Python
+
+What are For Loops?
+
+For Loops are used to iterative over a sequence (e.g. list, tuple, range, string)
+They execute a block of code repeatedly for each item in the sequence.
+
+syntax:
+
+for item in sequence
+    #code to be execute for each item.
+
+
+using range() :
+
+The range() function generates a sequence of numbers.
+
+e.g. 
+
+    for i in range(5):
+        print(i)  #o/p--> 0,1,2,3,4,
