@@ -44,3 +44,29 @@ Break
         print(i)  o/p--> 0,1,2,3,4
 
 
+# continue 
+    The continue statement skips the rest of the code in the current iteration and moves to the next situation.
+
+    e.g.
+
+    for i in range(5):
+        if i ==2:
+            continue
+        print(i)
+
+#Pass
+ The pass statement is a placeholder that does nothing. it is used when syntax requires a statement but no action is neede.
+
+ for e.g.
+    for i in range(5):
+        if i ==3:
+            pass
+        print(i)
+
+
+#summary
+
+    use if, elif and else for decision making
+    use match-case for pattern matching
+    use for loops to iterate over sequences and while loops for repeatedl execution based on a condition
+    control loop execution with break, continue, and Pass. 
