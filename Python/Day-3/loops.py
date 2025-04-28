@@ -21,3 +21,10 @@ while count < 5:
     print("while loops is running....")
     print(count)
     count += 1
+
+
+#Break statement
+for i in range(10):
+        if i == 5:
+            break
+        print(i)  #o/p--> 0,1,2,3,4
