@@ -1,0 +1,53 @@
+Strings in Python
+
+Strings are one of the most fundamental data types in Python.
+A String is a sequence of characters enclosed within either single quotes, double quotes or triple quotes.
+
+Creating String
+
+You can create strings in Python using different types of quotes:
+
+# singel-quoted string
+ a = 'Hello string'
+
+# dobule-quoted string
+ d = "Double String"
+
+# Triple-quoted string
+
+ c = ''' This is a 
+        multi-line 
+        string'''
+
+
+# String Indexing
+    Each character in a string has an index.
+    text = "Python"
+    print(text[0]) #Output: p
+    print(text[1]) # op --> y
+    print(text[-1]) #op--> n (last character)
+
+
+#String Slicing
+
+you can extract parts of a string using slicing.
+
+text = "Hello, Python!"
+
+print(text[0:5]) #op ---> Hello 
+print(text[:5])  #op ---> Hello
+print(text[7:]) #op ----> Python!
+print(text[:2]) #op ----> He
+print(text[::2]) #op ---> Hlo yhn
+
+
+String Methods
+
+Ptyhon provides several inbuilt methods to manipulate strings:
+
+text = " hello world "
+print(text.upper())
+print(text.lower())
+print(text.strip()) # remove all the unncessary spaces
+print(text.replace("World", "Python")) 
+print(text.split())
