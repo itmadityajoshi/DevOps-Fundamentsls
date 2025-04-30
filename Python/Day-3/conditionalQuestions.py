@@ -21,10 +21,3 @@
 
 age = int(input("Enter the age: "))
 day = "wednesday"
-
-if age >=18:
-    print("Ticket Price is : $12 for an adult.")
-elif age < 18:
-    print('Ticket price is $8 for children.')
-else day
-    print("$2 Discount on Wednesday. ")
