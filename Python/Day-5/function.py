@@ -29,3 +29,10 @@ student(age = 28,name="Bhim")
 
 square = lambda x: x *x
 print(square(4))
+
+#example
+
+numbers = [1,2,3,4]
+squared = list(map(lambda x: x **2, numbers))
+
+print(squared)
