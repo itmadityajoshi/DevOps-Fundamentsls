@@ -35,4 +35,5 @@ class Bird(Animal):
 my_bird = Bird("Tweety", 10)
 print(my_bird.name)
 # Output: Tweety (set by Animal's constructor)
-print(my_bird.wingspan) # Output: 10   (set by Bird's constructor
+print(my_bird.wingspan) # Output: 10   (set by Bird's constructor)
+
