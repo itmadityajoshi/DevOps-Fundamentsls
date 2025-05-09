@@ -37,3 +37,11 @@ print(my_bird.name)
 # Output: Tweety (set by Animal's constructor)
 print(my_bird.wingspan) # Output: 10   (set by Bird's constructor)
 
+
+
+
+class Domestic(Animal):
+    def __init__(self, name, lay):
+        super().__init__(name)
+        self.lay = lay
+
